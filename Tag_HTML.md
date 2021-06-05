@@ -8,14 +8,15 @@
 | [\<br\>](https://www.w3schools.com/tags/tag_br.asp)<br>[\<hr\>](https://www.w3schools.com/tags/tag_hr.asp)                                                              | Ngắt dòng đoạn văn<br>Gạch ngang đoạn văn          |       |
 | [\<!--...--\>](https://www.w3schools.com/tags/tag_comment.asp)                                                                                                          | Chú thích                                          |       |
 
-Định dạng 
+---
+
+## Định dạng
 
 | Thẻ                                                                 | Mô tả |
 | ------------------------------------------------------------------- | ----- |
 | [\<abbr\>](https://www.w3schools.com/tags/tag_abbr.asp)             |       |
 | [\<address\>](https://www.w3schools.com/tags/tag_address.asp)       |       |
 | [\<b\>](https://www.w3schools.com/tags/tag_b.asp)                   |       |
-|                                                                     |       |
 | [\<bdo\>](https://www.w3schools.com/tags/tag_bdo.asp)               |       |
 | [\<blockquote\>](https://www.w3schools.com/tags/tag_blockquote.asp) |       |
 | [\<cite\>](https://www.w3schools.com/tags/tag_cite.asp)             |       |
@@ -46,7 +47,9 @@
 | [\<var\>](https://www.w3schools.com/tags/tag_var.asp)               |       |
 | [\<wbr\>](https://www.w3schools.com/tags/tag_wbr.asp)               |       |
 
-forms and input
+---
+
+## forms and input
 
 | Thẻ                                                             | Mô tả |
 | --------------------------------------------------------------- | ----- |
@@ -62,13 +65,17 @@ forms and input
 | [\<datalist\>](https://www.w3schools.com/tags/tag_datalist.asp) |       |
 | [\<output\>](https://www.w3schools.com/tags/tag_output.asp)     |       |
 
-Frames
+---
+
+## Frames
 
 | Thẻ                                                         | Mô tả |
 | ----------------------------------------------------------- | ----- |
 | [\<iframe\>](https://www.w3schools.com/tags/tag_iframe.asp) |       |
 
-images
+---
+
+## images
 
 | Thẻ                                                                 | Mô tả |
 | ------------------------------------------------------------------- | ----- |
@@ -81,7 +88,9 @@ images
 | [\<picture\>](https://www.w3schools.com/tags/tag_picture.asp)       |       |
 | [\<svg\>](https://www.w3schools.com/tags/tag_svg.asp)               |       |
 
-Audio / Video
+---
+
+## Audio / Video
 
 | Thẻ                                                         | Mô tả |
 | ----------------------------------------------------------- | ----- |
@@ -90,7 +99,9 @@ Audio / Video
 | [\<track\>](https://www.w3schools.com/tags/tag_track.asp)   |       |
 | [\<video\>](https://www.w3schools.com/tags/tag_video.asp)   |       |
 
-Links
+---
+
+## Links
 
 | Thẻ                                                     | Mô tả |
 | ------------------------------------------------------- | ----- |
@@ -98,7 +109,9 @@ Links
 | [\<link\>](https://www.w3schools.com/tags/tag_link.asp) |       |
 | [\<nav\>](https://www.w3schools.com/tags/tag_nav.asp)   |       |
 
-Lists
+---
+
+## Lists
 
 | Thẻ                                                 | Mô tả |
 | --------------------------------------------------- | ----- |
@@ -109,7 +122,9 @@ Lists
 | [\<dt\>](https://www.w3schools.com/tags/tag_dt.asp) |       |
 | [\<dd\>](https://www.w3schools.com/tags/tag_dd.asp) |       |
 
-Tables
+---
+
+## Tables
 
 | Thẻ                                                                                                        | Mô tả |
 | ---------------------------------------------------------------------------------------------------------- | ----- |
@@ -123,7 +138,9 @@ Tables
 | [\<col\>](https://www.w3schools.com/tags/tag_col.asp)                                                      |       |
 | [\<colgroup\>](https://www.w3schools.com/tags/tag_colgroup.asp)                                            |       |
 
-Styles and Semantics
+---
+
+## Styles and Semantics
 
 | Thẻ                                                           | Mô tả |
 | ------------------------------------------------------------- | ----- |
@@ -139,7 +156,9 @@ Styles and Semantics
 | [\<details\>](https://www.w3schools.com/tags/tag_details.asp) |       |
 | [\<summary\>](https://www.w3schools.com/tags/tag_summary.asp) |       |
 
-Meta Info
+---
+
+## Meta Info
 
 | Thẻ                                                     | Mô tả |
 | ------------------------------------------------------- | ----- |
@@ -147,7 +166,9 @@ Meta Info
 | [\<meta\>](https://www.w3schools.com/tags/tag_meta.asp) |       |
 | [\<base\>](https://www.w3schools.com/tags/tag_base.asp) |       |
 
-Programing
+---
+
+## Programing
 
 | Thẻ                                                             | Mô tả |
 | --------------------------------------------------------------- | ----- |
@@ -157,7 +178,9 @@ Programing
 | [\<object\>](https://www.w3schools.com/tags/tag_object.asp)     |       |
 | [\<param\>](https://www.w3schools.com/tags/tag_param.asp)       |       |
 
-Limited use
+---
+
+## Limited use
 
 | Thẻ                                                                                                                                                                                             | Mô tả | Lý do không sử dụng |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------------- |
