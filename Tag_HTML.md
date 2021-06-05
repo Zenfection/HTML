@@ -1,3 +1,5 @@
+# <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/06-00-18-00-html5.gif" alt="html5.gif" width="50"> HTML Tag Element
+
 | Định nghĩa                                                                                                                                                                    | Mô tả                                              | Ví dụ |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----- |
 | [<!DOCTYPE>](https://www.w3schools.com/tags/tag_doctype.asp)                                                                                                                  | Định nghĩa kiểu document                           |       |
