@@ -1,12 +1,12 @@
-| Định nghĩa                                                                                                                                                              | Mô tả                                              | Ví dụ |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----- |
-| [<!DOCTYPE>](https://www.w3schools.com/tags/tag_doctype.asp)                                                                                                            | Định nghĩa kiểu document                           |       |
-| [<html>](https://www.w3schools.com/tags/tag_html.asp)<br>[<head>](https://www.w3schools.com/tags/tag_head.asp)<br>[<body>](https://www.w3schools.com/tags/tag_body.asp) | Định nghĩa `html`<br>Phần đầu Web<br>Phần đuôi Web |       |
-| [<title>](https://www.w3schools.com/tags/tag_title.asp)                                                                                                                 | Tiêu đề                                            |       |
-| [\<h1\> to \<h6\>](https://www.w3schools.com/tags/tag_hn.asp)                                                                                                           | Headings từ `1` tới `6`                            |       |
-| [\<p\>](https://www.w3schools.com/tags/tag_p.asp)                                                                                                                       | Đoạn văn                                           |       |
-| [\<br\>](https://www.w3schools.com/tags/tag_br.asp)<br>[\<hr\>](https://www.w3schools.com/tags/tag_hr.asp)                                                              | Ngắt dòng đoạn văn<br>Gạch ngang đoạn văn          |       |
-| [\<!--...--\>](https://www.w3schools.com/tags/tag_comment.asp)                                                                                                          | Chú thích                                          |       |
+| Định nghĩa                                                                                                                                                                    | Mô tả                                              | Ví dụ |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----- |
+| [<!DOCTYPE>](https://www.w3schools.com/tags/tag_doctype.asp)                                                                                                                  | Định nghĩa kiểu document                           |       |
+| [\<html\>](https://www.w3schools.com/tags/tag_html.asp)<br>[\<head\>](https://www.w3schools.com/tags/tag_head.asp)<br>[\<body\>](https://www.w3schools.com/tags/tag_body.asp) | Định nghĩa `html`<br>Phần đầu Web<br>Phần đuôi Web |       |
+| [<title>](https://www.w3schools.com/tags/tag_title.asp)                                                                                                                       | Tiêu đề                                            |       |
+| [\<h1\> to \<h6\>](https://www.w3schools.com/tags/tag_hn.asp)                                                                                                                 | Headings từ `1` tới `6`                            |       |
+| [\<p\>](https://www.w3schools.com/tags/tag_p.asp)                                                                                                                             | Đoạn văn                                           |       |
+| [\<br\>](https://www.w3schools.com/tags/tag_br.asp)<br>[\<hr\>](https://www.w3schools.com/tags/tag_hr.asp)                                                                    | Ngắt dòng đoạn văn<br>Gạch ngang đoạn văn          |       |
+| [\<!--...--\>](https://www.w3schools.com/tags/tag_comment.asp)                                                                                                                | Chú thích                                          |       |
 
 ---
 
