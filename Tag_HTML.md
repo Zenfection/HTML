@@ -1,53 +1,52 @@
 # <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/06-00-18-00-html5.gif" alt="html5.gif" width="50"> HTML Tag Element
 
-| Định nghĩa                                                                                                                                                                    | Mô tả                                              | Ví dụ |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----- |
-| [<!DOCTYPE>](https://www.w3schools.com/tags/tag_doctype.asp)                                                                                                                  | Định nghĩa kiểu document                           |       |
-| [\<html\>](https://www.w3schools.com/tags/tag_html.asp)<br>[\<head\>](https://www.w3schools.com/tags/tag_head.asp)<br>[\<body\>](https://www.w3schools.com/tags/tag_body.asp) | Định nghĩa `html`<br>Phần đầu Web<br>Phần đuôi Web |       |
-| [<title>](https://www.w3schools.com/tags/tag_title.asp)                                                                                                                       | Tiêu đề                                            |       |
-| [\<h1\> to \<h6\>](https://www.w3schools.com/tags/tag_hn.asp)                                                                                                                 | Headings từ `1` tới `6`                            |       |
-| [\<p\>](https://www.w3schools.com/tags/tag_p.asp)                                                                                                                             | Đoạn văn                                           |       |
-| [\<br\>](https://www.w3schools.com/tags/tag_br.asp)<br>[\<hr\>](https://www.w3schools.com/tags/tag_hr.asp)                                                                    | Ngắt dòng đoạn văn<br>Gạch ngang đoạn văn          |       |
-| [\<!--...--\>](https://www.w3schools.com/tags/tag_comment.asp)                                                                                                                | Chú thích                                          |       |
+| Tag                                                                                                                                                                           | Stand for                 | Description                                        |     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------------------------------------- | --- |
+| [<!DOCTYPE>](https://www.w3schools.com/tags/tag_doctype.asp)                                                                                                                  |                           | Định nghĩa kiểu document                           |     |
+| [\<html\>](https://www.w3schools.com/tags/tag_html.asp)<br>[\<head\>](https://www.w3schools.com/tags/tag_head.asp)<br>[\<body\>](https://www.w3schools.com/tags/tag_body.asp) |                           | Định nghĩa `html`<br>Phần đầu Web<br>Phần đuôi Web |     |
+| [<title>](https://www.w3schools.com/tags/tag_title.asp)                                                                                                                       |                           | Tiêu đề                                            |     |
+| [\<h1\> to \<h6\>](https://www.w3schools.com/tags/tag_hn.asp)                                                                                                                 | Headings                  | Headings từ `1` tới `6`                            |     |
+| [\<p\>](https://www.w3schools.com/tags/tag_p.asp)                                                                                                                             | Paragraph                 | Đoạn văn                                           |     |
+| [\<br\>](https://www.w3schools.com/tags/tag_br.asp)<br>[\<hr\>](https://www.w3schools.com/tags/tag_hr.asp)                                                                    | Break<br>Horizontal break | Ngắt dòng đoạn văn<br>Gạch ngang đoạn văn          |     |
+| [\<!--...--\>](https://www.w3schools.com/tags/tag_comment.asp)                                                                                                                |                           | Chú thích                                          |     |
 
 ---
 
 ## Định dạng
 
-| Thẻ                                                                 | Mô tả |
-| ------------------------------------------------------------------- | ----- |
-| [\<abbr\>](https://www.w3schools.com/tags/tag_abbr.asp)             |       |
-| [\<address\>](https://www.w3schools.com/tags/tag_address.asp)       |       |
-| [\<b\>](https://www.w3schools.com/tags/tag_b.asp)                   |       |
-| [\<bdo\>](https://www.w3schools.com/tags/tag_bdo.asp)               |       |
-| [\<blockquote\>](https://www.w3schools.com/tags/tag_blockquote.asp) |       |
-| [\<cite\>](https://www.w3schools.com/tags/tag_cite.asp)             |       |
-| [\<code\>](https://www.w3schools.com/tags/tag_code.asp)             |       |
-| [\<del\>](https://www.w3schools.com/tags/tag_del.asp)               |       |
-| [\<dfn\>](https://www.w3schools.com/tags/tag_dfn.asp)               |       |
-| [\<em\>](https://www.w3schools.com/tags/tag_em.asp)                 |       |
-| [\<i\>](https://www.w3schools.com/tags/tag_i.asp)                   |       |
-| [\<ins\>](https://www.w3schools.com/tags/tag_ins.asp)               |       |
-| [\<kbd\>](https://www.w3schools.com/tags/tag_kbd.asp)               |       |
-| [\<mark\>](https://www.w3schools.com/tags/tag_mark.asp)             |       |
-| [\<meter\>](https://www.w3schools.com/tags/tag_meter.asp)           |       |
-| [\<pre\>](https://www.w3schools.com/tags/tag_pre.asp)               |       |
-| [\<progress\>](https://www.w3schools.com/tags/tag_progress.asp)     |       |
-| [\<q\>](https://www.w3schools.com/tags/tag_q.asp)                   |       |
-| [\<rp\>](https://www.w3schools.com/tags/tag_rp.asp)                 |       |
-| [\<rt\>](https://www.w3schools.com/tags/tag_rt.asp)                 |       |
-| [\<ruby\>](https://www.w3schools.com/tags/tag_ruby.asp)             |       |
-| [\<s\>](https://www.w3schools.com/tags/tag_s.asp)                   |       |
-| [\<smap\>](https://www.w3schools.com/tags/tag_samp.asp)             |       |
-| [\<small\>](https://www.w3schools.com/tags/tag_small.asp)           |       |
-| [\<strong\>](https://www.w3schools.com/tags/tag_strong.asp)         |       |
-| [\<sub\>](https://www.w3schools.com/tags/tag_sub.asp)               |       |
-| [\<sup\>](https://www.w3schools.com/tags/tag_sup.asp)               |       |
-| [\<template\>](https://www.w3schools.com/tags/tag_template.asp)     |       |
-| [\<time\>](https://www.w3schools.com/tags/tag_time.asp)             |       |
-| [\<u\>](https://www.w3schools.com/tags/tag_u.asp)                   |       |
-| [\<var\>](https://www.w3schools.com/tags/tag_var.asp)               |       |
-| [\<wbr\>](https://www.w3schools.com/tags/tag_wbr.asp)               |       |
+| Tag                                                                                                        | Stand for               | Description                   | Attribute                  |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------- | ----------------------------- | -------------------------- |
+| [\<abbr\>](https://www.w3schools.com/tags/tag_abbr.asp)                                                    | Abbreviation            | Từ viết tắt                   | title                      |
+| [\<address\>](https://www.w3schools.com/tags/tag_address.asp)                                              |                         | Thông tin địa chỉ của tác giả | href                       |
+| [\<b\>](https://www.w3schools.com/tags/tag_b.asp)<br>[\<del\>](https://www.w3schools.com/tags/tag_del.asp) | Bold<br>Deleted         | **In đậm**<br>~~Gạch ngang~~  |                            |
+| [\<bdo\>](https://www.w3schools.com/tags/tag_bdo.asp)                                                      | Bi-Directional Override | Đổi hướng văn bản             | dir                        |
+| [\<blockquote\>](https://www.w3schools.com/tags/tag_blockquote.asp)                                        |                         | Trích dẫn                     | cite                       |
+| [\<cite\>](https://www.w3schools.com/tags/tag_cite.asp)                                                    |                         | Tiêu đề của tác phẩm          |                            |
+| [\<code\>](https://www.w3schools.com/tags/tag_code.asp)                                                    |                         | Mã code lập trình             |                            |
+| [\<dfn\>](https://www.w3schools.com/tags/tag_dfn.asp)                                                      |                         | Xác định thuật ngữ            | title<br>\<abbr\><br>\<\a> |
+| [\<em\>](https://www.w3schools.com/tags/tag_em.asp)                                                        |                         |                               |                            |
+| [\<i\>](https://www.w3schools.com/tags/tag_i.asp)                                                          |                         |                               |                            |
+| [\<ins\>](https://www.w3schools.com/tags/tag_ins.asp)                                                      |                         |                               |                            |
+| [\<kbd\>](https://www.w3schools.com/tags/tag_kbd.asp)                                                      |                         |                               |                            |
+| [\<mark\>](https://www.w3schools.com/tags/tag_mark.asp)                                                    |                         |                               |                            |
+| [\<meter\>](https://www.w3schools.com/tags/tag_meter.asp)                                                  |                         |                               |                            |
+| [\<pre\>](https://www.w3schools.com/tags/tag_pre.asp)                                                      |                         |                               |                            |
+| [\<progress\>](https://www.w3schools.com/tags/tag_progress.asp)                                            |                         |                               |                            |
+| [\<q\>](https://www.w3schools.com/tags/tag_q.asp)                                                          |                         |                               |                            |
+| [\<rp\>](https://www.w3schools.com/tags/tag_rp.asp)                                                        |                         |                               |                            |
+| [\<rt\>](https://www.w3schools.com/tags/tag_rt.asp)                                                        |                         |                               |                            |
+| [\<ruby\>](https://www.w3schools.com/tags/tag_ruby.asp)                                                    |                         |                               |                            |
+| [\<s\>](https://www.w3schools.com/tags/tag_s.asp)                                                          |                         |                               |                            |
+| [\<smap\>](https://www.w3schools.com/tags/tag_samp.asp)                                                    |                         |                               |                            |
+| [\<small\>](https://www.w3schools.com/tags/tag_small.asp)                                                  |                         |                               |                            |
+| [\<strong\>](https://www.w3schools.com/tags/tag_strong.asp)                                                |                         |                               |                            |
+| [\<sub\>](https://www.w3schools.com/tags/tag_sub.asp)                                                      |                         |                               |                            |
+| [\<sup\>](https://www.w3schools.com/tags/tag_sup.asp)                                                      |                         |                               |                            |
+| [\<template\>](https://www.w3schools.com/tags/tag_template.asp)                                            |                         |                               |                            |
+| [\<time\>](https://www.w3schools.com/tags/tag_time.asp)                                                    |                         |                               |                            |
+| [\<u\>](https://www.w3schools.com/tags/tag_u.asp)                                                          |                         |                               |                            |
+| [\<var\>](https://www.w3schools.com/tags/tag_var.asp)                                                      |                         |                               |                            |
+| [\<wbr\>](https://www.w3schools.com/tags/tag_wbr.asp)                                                      |                         |                               |                            |
 
 ---
 
