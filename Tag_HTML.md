@@ -60,24 +60,24 @@
 
 ## Frames
 
-| Tag                                                         | Description                      | Attribute                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ----------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [\<iframe\>](https://www.w3schools.com/tags/tag_iframe.asp) | Nhúng `HTML` vào `HTML` hiện tại | allow : <br>allowfullscreen : Cho phép chế độ toàn màn hình (*`true / false`*)<br>allowpaymentrequest : Cho phép gọi `API` yêu cầu **thanh toán**<br>[height](https://www.w3schools.com/tags/att_iframe_height.asp) & [width](https://www.w3schools.com/tags/att_iframe_width.asp) : Chiều **dài** / **rộng** của khung<br>loading : <br>[name](https://www.w3schools.com/tags/att_iframe_name.asp) : Đặt tên cho `iframe`<br>[referrerpolicy](https://www.w3schools.com/tags/att_iframe_referrerpolicy.asp)  : <br>[sandbox](https://www.w3schools.com/tags/att_iframe_sandbox.asp) : <br>[src](https://www.w3schools.com/tags/att_iframe_src.asp) : <br>[srcdoc](https://www.w3schools.com/tags/att_iframe_srcdoc.asp) : <br> |
+| Tag                                                         | Description                      | Attribute                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [\<iframe\>](https://www.w3schools.com/tags/tag_iframe.asp) | Nhúng `HTML` vào `HTML` hiện tại | allow : <br>allowfullscreen : Cho phép chế độ toàn màn hình (*`true / false`*)<br>allowpaymentrequest : Cho phép gọi `API` yêu cầu **thanh toán**<br>[height](https://www.w3schools.com/tags/att_iframe_height.asp) & [width](https://www.w3schools.com/tags/att_iframe_width.asp) : Chiều **dài** / **rộng** của khung<br>loading : Chỉ định **tải ngay** hoặc **hoãn** `iframe` khi **load** trang<br>[name](https://www.w3schools.com/tags/att_iframe_name.asp) : Đặt tên cho `iframe`<br>[referrerpolicy](https://www.w3schools.com/tags/att_iframe_referrerpolicy.asp)  : Chỉ định thông tin gữi khi nạp `iframe`<br>[sandbox](https://www.w3schools.com/tags/att_iframe_sandbox.asp) : Bật tính nâng hạn chế nội dung<br>[src](https://www.w3schools.com/tags/att_iframe_src.asp) : URL của file nhúng<br>[srcdoc](https://www.w3schools.com/tags/att_iframe_srcdoc.asp) : Nội dụng HTML được hiển thị<br> |
 
 ---
 
 ## images
 
-| Thẻ                                                                 | Mô tả |
-| ------------------------------------------------------------------- | ----- |
-| [\<img\>](https://www.w3schools.com/tags/tag_img.asp)               |       |
-| [\<map\>](https://www.w3schools.com/tags/tag_map.asp)               |       |
-| [\<area\>](https://www.w3schools.com/tags/tag_area.asp)             |       |
-| [\<canvas\>](https://www.w3schools.com/tags/tag_canvas.asp)         |       |
-| [\<figcaption\>](https://www.w3schools.com/tags/tag_figcaption.asp) |       |
-| [\<figure\>](https://www.w3schools.com/tags/tag_figure.asp)         |       |
-| [\<picture\>](https://www.w3schools.com/tags/tag_picture.asp)       |       |
-| [\<svg\>](https://www.w3schools.com/tags/tag_svg.asp)               |       |
+| Tag                                                                 | Description | Attribute |
+| ------------------------------------------------------------------- | ----------- | --------- |
+| [\<img\>](https://www.w3schools.com/tags/tag_img.asp)               |             |           |
+| [\<map\>](https://www.w3schools.com/tags/tag_map.asp)               |             |           |
+| [\<area\>](https://www.w3schools.com/tags/tag_area.asp)             |             |           |
+| [\<canvas\>](https://www.w3schools.com/tags/tag_canvas.asp)         |             |           |
+| [\<figcaption\>](https://www.w3schools.com/tags/tag_figcaption.asp) |             |           |
+| [\<figure\>](https://www.w3schools.com/tags/tag_figure.asp)         |             |           |
+| [\<picture\>](https://www.w3schools.com/tags/tag_picture.asp)       |             |           |
+| [\<svg\>](https://www.w3schools.com/tags/tag_svg.asp)               |             |           |
 
 ---
 
