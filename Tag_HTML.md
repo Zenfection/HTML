@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-12-51-26-icons8-clear_formatting.png" title="" alt="icons8-clear_formatting.png" width="40"> Định dạng
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-12-51-26-icons8-clear_formatting.png" title="" alt="icons8-clear_formatting.png" width="40"> Format
 
 | ![icons8-tag.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-05-00-icons8-tag.png) Tag                                                   | ![icons8-handle_with_care.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description | ![icons8-electrical.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute | ![icons8-css3.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-08-06-icons8-css3.png) CSS default |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
