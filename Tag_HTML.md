@@ -1,42 +1,21 @@
 # <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/06-00-18-00-html5.gif" alt="html5.gif" width="50"> HTML Tag Element
 
-| ![icons8-tag.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-05-00-icons8-tag.png) Tag                                                           | Stand for                       | ![icons8-handle_with_care.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<!DOCTYPE>](https://www.w3schools.com/tags/tag_doctype.asp)                                                                                                                  | **Doc**ument **Type**           | Định nghĩa kiểu document                                                                                                                              |
-| [\<html\>](https://www.w3schools.com/tags/tag_html.asp)<br>[\<head\>](https://www.w3schools.com/tags/tag_head.asp)<br>[\<body\>](https://www.w3schools.com/tags/tag_body.asp) |                                 | Định nghĩa `html`<br>Phần đầu Web<br>Phần đuôi Web                                                                                                    |
-| [<title>](https://www.w3schools.com/tags/tag_title.asp)                                                                                                                       |                                 | Tiêu đề                                                                                                                                               |
-| [\<h1\> to \<h6\>](https://www.w3schools.com/tags/tag_hn.asp)                                                                                                                 | **H**eadings                    | Headings từ `1` tới `6`                                                                                                                               |
-| [\<p\>](https://www.w3schools.com/tags/tag_p.asp)                                                                                                                             | **P**aragraph                   | Đoạn văn                                                                                                                                              |
-| [\<br\>](https://www.w3schools.com/tags/tag_br.asp)<br>[\<wbr\>](https://www.w3schools.com/tags/tag_wbr.asp)                                                                  | **B**reak<br>**W**ord **Br**eak | Ngắt dòng<br>Ngắt dòng (*khi cần thiết*)                                                                                                              |
-| [\<hr\>](https://www.w3schools.com/tags/tag_hr.asp)                                                                                                                           | **H**ori**z**ontal              | Gạch ngang đoạn văn                                                                                                                                   |
-| [\<!--...--\>](https://www.w3schools.com/tags/tag_comment.asp)                                                                                                                |                                 | Chú thích                                                                                                                                             |
+| ![icons8-tag.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-05-00-icons8-tag.png) Tag                               | ![icons8-handle_with_care.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description | CSS Default                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [<!DOCTYPE>](https://www.w3schools.com/tags/tag_doctype.asp) - (**Doc**ument **Type**)                                                            | Định nghĩa kiểu document                                                                                                                              |                                                                             |
+| [\<html\>](https://www.w3schools.com/tags/tag_html.asp)                                                                                           | Định nghĩa `html`                                                                                                                                     | `display : block;`<br>`:focus {outline: none;}`                             |
+| [\<head\>](https://www.w3schools.com/tags/tag_head.asp)                                                                                           | Phần đầu Web                                                                                                                                          | `display: none;`                                                            |
+| [\<body\>](https://www.w3schools.com/tags/tag_body.asp)                                                                                           | Phần đuôi Web                                                                                                                                         | `display: block;`<br/>`  margin: 8px;`<br>`:focus{outline: none;}`          |
+| [<title>](https://www.w3schools.com/tags/tag_title.asp)                                                                                           | Tiêu đề                                                                                                                                               | `display: none;`                                                            |
+| [\<h1\> to \<h6\>](https://www.w3schools.com/tags/tag_hn.asp) - (**H**eadings)                                                                    | Headings từ `1` tới `6`                                                                                                                               | Format Below                                                                |
+| [\<p\>](https://www.w3schools.com/tags/tag_p.asp) - (**P**aragraph)                                                                               | Đoạn văn                                                                                                                                              | `display: block;`<br>`margin: 1em 1em 0 0`                                  |
+| [\<br\>](https://www.w3schools.com/tags/tag_br.asp) - (**B**reak)<br>[\<wbr\>](https://www.w3schools.com/tags/tag_wbr.asp) - (**W**ord **Br**eak) | Ngắt dòng<br>Ngắt dòng (*khi cần thiết*)                                                                                                              | None.                                                                       |
+| [\<hr\>](https://www.w3schools.com/tags/tag_hr.asp) - (**H**ori**z**ontal)                                                                        | Gạch ngang đoạn văn                                                                                                                                   | `display: block;`<br>`margin: 0.5em 0.5em auto auto`<br>`border: 1px inset` |
+| [\<!--...--\>](https://www.w3schools.com/tags/tag_comment.asp)                                                                                    | Chú thích                                                                                                                                             | None.                                                                       |
 
-```css
-html{
-    display : block;
-}
-html:focus {
-    outline: none;
-}
-```
-
-```css
-body {
-  display: block;
-  margin: 8px;
-}
-
-body:focus {
-  outline: none;
-}
-```
-
-| CSS                              | display | font-size (`em`)                      | margin (`em`)<br>(*top-bottom-left-right*)                                                   | font-weight | border<br>(*width-style-color*) |
-| -------------------------------- | ------- | ------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- | ------------------------------- |
-| head<br>title                    | none    |                                       |                                                                                              |             |                                 |
-| h1<br>h2<br>h3<br>h4<br>h5<br>h6 | block   | 2<br>1.5<br>1.17<br>1<br>0.83<br>0.67 | 0.67 0.67 0 0<br>0.83 0.83 0 0<br>1 1 0 0<br>1.33 1.33 0 0<br>1.67 1.67 0 0<br>2.33 2.33 0 0 | bold        |                                 |
-| p                                | block   |                                       | 1 1 0 0                                                                                      |             |                                 |
-| hr                               | block   |                                       | 0.5 0.5 auto auto                                                                            |             | 1px inset                       |
+| CSS                              | display | font-size (`em`)                      | margin (`em`)<br>(*top-bottom-left-right*)                                                   | font-weight |
+| -------------------------------- | ------- | ------------------------------------- | -------------------------------------------------------------------------------------------- | ----------- |
+| h1<br>h2<br>h3<br>h4<br>h5<br>h6 | block   | 2<br>1.5<br>1.17<br>1<br>0.83<br>0.67 | 0.67 0.67 0 0<br>0.83 0.83 0 0<br>1 1 0 0<br>1.33 1.33 0 0<br>1.67 1.67 0 0<br>2.33 2.33 0 0 | bold        |
 
 ---
 
