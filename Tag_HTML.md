@@ -11,6 +11,35 @@
 | [\<hr\>](https://www.w3schools.com/tags/tag_hr.asp)                                                                                                                           | **H**ori**z**ontal              | Gạch ngang đoạn văn                                |
 | [\<!--...--\>](https://www.w3schools.com/tags/tag_comment.asp)                                                                                                                |                                 | Chú thích                                          |
 
+```css
+html{
+    display : block;
+}
+html:focus {
+    outline: none;
+}
+```
+
+```css
+body {
+  display: block;
+  margin: 8px;
+}
+
+body:focus {
+  outline: none;
+}
+```
+
+| CSS                              | display | font-size (`em`)                      | margin (`em`)<br>(*top-bottom-left-right*)                                                              | font-weight | border<br>(*width-style-color*) |
+| -------------------------------- | ------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------- |
+| head<br>title                    | none    |                                       |                                                                                                         |             |                                 |
+| h1<br>h2<br>h3<br>h4<br>h5<br>h6 | block   | 2<br>1.5<br>1.17<br>1<br>0.83<br>0.67 | 0.67 0.67 0 0<br>0.83 0.83 0 0<br>1 1 0 0<br>1.33 1.33 0 0<br>1.67 1.67 0 0<br>2.33 2.33 0 0<br>1 1 0 0 | bold        |                                 |
+| p                                | block   |                                       | 1 1 0 0                                                                                                 |             |                                 |
+| hr                               | block   |                                       | 0.5 0.5 auto auto                                                                                       |             | 1px inset                       |
+
+
+
 ---
 
 ## Định dạng
@@ -68,106 +97,105 @@
 
 ## images
 
-| Tag                                                                 | Description | Attribute |
-| ------------------------------------------------------------------- | ----------- | --------- |
-| [\<img\>](https://www.w3schools.com/tags/tag_img.asp)               |             |           |
-| [\<map\>](https://www.w3schools.com/tags/tag_map.asp)               |             |           |
-| [\<area\>](https://www.w3schools.com/tags/tag_area.asp)             |             |           |
-| [\<canvas\>](https://www.w3schools.com/tags/tag_canvas.asp)         |             |           |
-| [\<figcaption\>](https://www.w3schools.com/tags/tag_figcaption.asp) |             |           |
-| [\<figure\>](https://www.w3schools.com/tags/tag_figure.asp)         |             |           |
-| [\<picture\>](https://www.w3schools.com/tags/tag_picture.asp)       |             |           |
-| [\<svg\>](https://www.w3schools.com/tags/tag_svg.asp)               |             |           |
+| Tag                                                                 | Description | Attribute                                                                                                                                                   |
+| ------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [\<img\>](https://www.w3schools.com/tags/tag_img.asp)               |             | alt : <br>crossorigin  : <br>height & width : <br>ismap : <br>loading : <br>longdesc : <br>referrerpolicy : <br>sizes : <br>src : <br>srcset : <br>usemap : |
+| [\<map\>](https://www.w3schools.com/tags/tag_map.asp)               |             | [name](https://www.w3schools.com/tags/att_map_name.asp) :                                                                                                   |
+| [\<area\>](https://www.w3schools.com/tags/tag_area.asp)             |             | alt : <br>coords : <br>download : <br>href : <br>hreflang : <br>media : <br>referrerpolicy : <br>rel : <br>shape : <br>target : <br>type :                  |
+| [\<canvas\>](https://www.w3schools.com/tags/tag_canvas.asp)         |             | [height](https://www.w3schools.com/tags/att_canvas_height.asp) & [width](https://www.w3schools.com/tags/att_canvas_width.asp) :                             |
+| [\<figcaption\>](https://www.w3schools.com/tags/tag_figcaption.asp) |             |                                                                                                                                                             |
+| [\<figure\>](https://www.w3schools.com/tags/tag_figure.asp)         |             |                                                                                                                                                             |
+| [\<picture\>](https://www.w3schools.com/tags/tag_picture.asp)       |             |                                                                                                                                                             |
+| [\<svg\>](https://www.w3schools.com/tags/tag_svg.asp)               |             | height & width :                                                                                                                                            |
 
 ---
 
 ## Audio / Video
 
-| Thẻ                                                         | Mô tả |
-| ----------------------------------------------------------- | ----- |
-| [\<audio\>](https://www.w3schools.com/tags/tag_audio.asp)   |       |
-| [\<source\>](https://www.w3schools.com/tags/tag_source.asp) |       |
-| [\<track\>](https://www.w3schools.com/tags/tag_track.asp)   |       |
-| [\<video\>](https://www.w3schools.com/tags/tag_video.asp)   |       |
+| Tag                                                         | Description | Attribute                                                                                                   |
+| ----------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------- |
+| [\<audio\>](https://www.w3schools.com/tags/tag_audio.asp)   |             | autoplay : <br>control : <br>loop : <br>muted : <br>preload : <br>src :                                     |
+| [\<source\>](https://www.w3schools.com/tags/tag_source.asp) |             | media : <br>sizes : <br>src : <br>srcset : <br>type :                                                       |
+| [\<track\>](https://www.w3schools.com/tags/tag_track.asp)   |             | default : <br>kind : <br>label : <br>src : <br>srclang :                                                    |
+| [\<video\>](https://www.w3schools.com/tags/tag_video.asp)   |             | autoplay : <br>controls : <br>height & width : <br>loop : <br>muted : <br>poster : <br>preload : <br> src : |
 
 ---
 
 ## Links
 
-| Thẻ                                                     | Mô tả |
-| ------------------------------------------------------- | ----- |
-| [\<a\>](https://www.w3schools.com/tags/tag_a.asp)       |       |
-| [\<link\>](https://www.w3schools.com/tags/tag_link.asp) |       |
-| [\<nav\>](https://www.w3schools.com/tags/tag_nav.asp)   |       |
+| Tag                                                     | Description | Attribute                                                                                                             |
+| ------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------- |
+| [\<a\>](https://www.w3schools.com/tags/tag_a.asp)       |             | download : <br>href : <br>hreflang : <br>media : <br>ping : <br>referrerpolicy : <br>rel : <br>target : <br>type :    |
+| [\<link\>](https://www.w3schools.com/tags/tag_link.asp) |             | crossorigin : <br>href : <br>hreflang : <br>media : <br>referrerpolicy : <br>rel : <br>sizes : <br>title : <br>type : |
+| [\<nav\>](https://www.w3schools.com/tags/tag_nav.asp)   |             |                                                                                                                       |
 
 ---
 
 ## Lists
 
-| Thẻ                                                 | Mô tả |
-| --------------------------------------------------- | ----- |
-| [\<ul\>](https://www.w3schools.com/tags/tag_ul.asp) |       |
-| [\<ol\>](https://www.w3schools.com/tags/tag_ol.asp) |       |
-| [\<li\>](https://www.w3schools.com/tags/tag_li.asp) |       |
-| [\<dl\>](https://www.w3schools.com/tags/tag_dl.asp) |       |
-| [\<dt\>](https://www.w3schools.com/tags/tag_dt.asp) |       |
-| [\<dd\>](https://www.w3schools.com/tags/tag_dd.asp) |       |
+| Tag                                                                                                        | Description | Attribute |
+| ---------------------------------------------------------------------------------------------------------- | ----------- | --------- |
+| [\<ul\>](https://www.w3schools.com/tags/tag_ul.asp)<br>[\<ol\>](https://www.w3schools.com/tags/tag_ol.asp) |             |           |
+| [\<li\>](https://www.w3schools.com/tags/tag_li.asp)                                                        |             |           |
+| [\<dl\>](https://www.w3schools.com/tags/tag_dl.asp)                                                        |             |           |
+| [\<dt\>](https://www.w3schools.com/tags/tag_dt.asp)                                                        |             |           |
+| [\<dd\>](https://www.w3schools.com/tags/tag_dd.asp)                                                        |             |           |
 
 ---
 
 ## Tables
 
-| Thẻ                                                                                                        | Mô tả |
-| ---------------------------------------------------------------------------------------------------------- | ----- |
-| [\<table\>](https://www.w3schools.com/tags/tag_table.asp)                                                  |       |
-| [\<caption\>](https://www.w3schools.com/tags/tag_caption.asp)                                              |       |
-| [\<th\>](https://www.w3schools.com/tags/tag_th.asp)                                                        |       |
-| [\<tr\>](https://www.w3schools.com/tags/tag_tr.asp)<br>[\<td\>](https://www.w3schools.com/tags/tag_td.asp) |       |
-| [\<thead\>](https://www.w3schools.com/tags/tag_thead.asp)                                                  |       |
-| [\<tbody\>](https://www.w3schools.com/tags/tag_tbody.asp)                                                  |       |
-| [\<tfoot\>](https://www.w3schools.com/tags/tag_tfoot.asp)                                                  |       |
-| [\<col\>](https://www.w3schools.com/tags/tag_col.asp)                                                      |       |
-| [\<colgroup\>](https://www.w3schools.com/tags/tag_colgroup.asp)                                            |       |
+| Tag                                                                                                        | Description | Attribute |
+| ---------------------------------------------------------------------------------------------------------- | ----------- | --------- |
+| [\<table\>](https://www.w3schools.com/tags/tag_table.asp)                                                  |             |           |
+| [\<caption\>](https://www.w3schools.com/tags/tag_caption.asp)                                              |             |           |
+| [\<th\>](https://www.w3schools.com/tags/tag_th.asp)                                                        |             |           |
+| [\<tr\>](https://www.w3schools.com/tags/tag_tr.asp)<br>[\<td\>](https://www.w3schools.com/tags/tag_td.asp) |             |           |
+| [\<thead\>](https://www.w3schools.com/tags/tag_thead.asp)                                                  |             |           |
+| [\<tbody\>](https://www.w3schools.com/tags/tag_tbody.asp)                                                  |             |           |
+| [\<tfoot\>](https://www.w3schools.com/tags/tag_tfoot.asp)                                                  |             |           |
+| [\<col\>](https://www.w3schools.com/tags/tag_col.asp)                                                      |             |           |
+| [\<colgroup\>](https://www.w3schools.com/tags/tag_colgroup.asp)                                            |             |           |
 
 ---
 
 ## Styles and Semantics
 
-| Thẻ                                                           | Mô tả |
-| ------------------------------------------------------------- | ----- |
-| [\<style\>](https://www.w3schools.com/tags/tag_style.asp)     |       |
-| [\<div\>](https://www.w3schools.com/tags/tag_div.asp)         |       |
-| [\<span\>](https://www.w3schools.com/tags/tag_span.asp)       |       |
-| [\<header\>](https://www.w3schools.com/tags/tag_header.asp)   |       |
-| [\<footer\>](https://www.w3schools.com/tags/tag_footer.asp)   |       |
-| [\<main\>](https://www.w3schools.com/tags/tag_main.asp)       |       |
-| [\<section\>](https://www.w3schools.com/tags/tag_section.asp) |       |
-| [\<article\>](https://www.w3schools.com/tags/tag_article.asp) |       |
-| [\<aside\>](https://www.w3schools.com/tags/tag_aside.asp)     |       |
-| [\<details\>](https://www.w3schools.com/tags/tag_details.asp) |       |
-| [\<summary\>](https://www.w3schools.com/tags/tag_summary.asp) |       |
+| Tag                                                           | Description | Attribute | CSS Default |
+| ------------------------------------------------------------- | ----------- | --------- | ----------- |
+| [\<style\>](https://www.w3schools.com/tags/tag_style.asp)     |             |           |             |
+| [\<div\>](https://www.w3schools.com/tags/tag_div.asp)         |             |           |             |
+| [\<span\>](https://www.w3schools.com/tags/tag_span.asp)       |             |           |             |
+| [\<header\>](https://www.w3schools.com/tags/tag_header.asp)   |             |           |             |
+| [\<footer\>](https://www.w3schools.com/tags/tag_footer.asp)   |             |           |             |
+| [\<main\>](https://www.w3schools.com/tags/tag_main.asp)       |             |           |             |
+| [\<section\>](https://www.w3schools.com/tags/tag_section.asp) |             |           |             |
+| [\<article\>](https://www.w3schools.com/tags/tag_article.asp) |             |           |             |
+| [\<aside\>](https://www.w3schools.com/tags/tag_aside.asp)     |             |           |             |
+| [\<details\>](https://www.w3schools.com/tags/tag_details.asp) |             |           |             |
+| [\<summary\>](https://www.w3schools.com/tags/tag_summary.asp) |             |           |             |
 
 ---
 
 ## Meta Info
 
-| Thẻ                                                     | Mô tả |
-| ------------------------------------------------------- | ----- |
-| [\<head\>](https://www.w3schools.com/tags/tag_head.asp) |       |
-| [\<meta\>](https://www.w3schools.com/tags/tag_meta.asp) |       |
-| [\<base\>](https://www.w3schools.com/tags/tag_base.asp) |       |
+| Tag                                                     | Description |
+| ------------------------------------------------------- | ----------- |
+| [\<head\>](https://www.w3schools.com/tags/tag_head.asp) |             |
+| [\<meta\>](https://www.w3schools.com/tags/tag_meta.asp) |             |
+| [\<base\>](https://www.w3schools.com/tags/tag_base.asp) |             |
 
 ---
 
 ## Programing
 
-| Thẻ                                                             | Mô tả |
-| --------------------------------------------------------------- | ----- |
-| [\<script\>](https://www.w3schools.com/tags/tag_script.asp)     |       |
-| [\<noscript\>](https://www.w3schools.com/tags/tag_noscript.asp) |       |
-| [\<embed\>](https://www.w3schools.com/tags/tag_embed.asp)       |       |
-| [\<object\>](https://www.w3schools.com/tags/tag_object.asp)     |       |
-| [\<param\>](https://www.w3schools.com/tags/tag_param.asp)       |       |
+| Tag                                                             | Description |
+| --------------------------------------------------------------- | ----------- |
+| [\<script\>](https://www.w3schools.com/tags/tag_script.asp)     |             |
+| [\<noscript\>](https://www.w3schools.com/tags/tag_noscript.asp) |             |
+| [\<embed\>](https://www.w3schools.com/tags/tag_embed.asp)       |             |
+| [\<object\>](https://www.w3schools.com/tags/tag_object.asp)     |             |
+| [\<param\>](https://www.w3schools.com/tags/tag_param.asp)       |             |
 
 ---
 
