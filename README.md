@@ -8,37 +8,13 @@
 
 ### 🌀 Mình tên là Zen, đây là bộ Guide về `HTML` của mình phóng tác lại bởi `W3school`.  🌀
 
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-        <style>
-            .bigbtn {
-	            margin-bottom:5px;
-	            height:65px;
-	            width:24%;
-	            border:1px solid #e3e3e3;
-	            background-color:#E7E9EB;
-	            color:#555;
-	            font-size:16px;
-	            padding:20px 0;
-	            text-align: center;
-	            vertical-align: middle;
-	            display: inline-block;
-	            text-decoration:none !important;
-	            border-radius:5px;
-	        }
-        </style>
-	</head>
-	<body>
-		<div>
-			  <a class="bigbtn" href="jsref_obj_array.asp">Tag</a>
-			  <a class="bigbtn" href="jsref_obj_date.asp">Global Attribute</a>
-			  <a class="bigbtn" href="jsref_obj_error.asp">Event Attribute</a>
-			  <a class="bigbtn" href="jsref_obj_boolean.asp">Attribute</a>
-			  <a class="bigbtn" href="jsref_classes.asp">Audio/Video</a>
-			  <a class="bigbtn" href="jsref_obj_global.asp">SVG</a>
-			  <a class="bigbtn" href="jsref_obj_json.asp">Canvas</a>
-			  <a class="bigbtn" href="jsref_obj_math.asp">Map</a>
-			</div>
-	</body>
-</html>
+<div>
+	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/Tag.md">Tag</a>
+	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/GlobalAttributes.md">Global Attribute</a>
+	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/EventAttributes.md">Event Attribute</a>
+	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/Attribute.md">Attribute</a>
+    <a href="https://github.com/Zenfection/HTML/blob/main/Reference/AudioVideo.md">Audio/Video</a>
+	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/SVG.md">SVG</a>
+	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/Canvas.md">Canvas</a>
+	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/Map.md">Map</a>
+</div>
