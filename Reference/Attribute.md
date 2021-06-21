@@ -2,7 +2,7 @@
 
 | Attribute                                                                   | Belongs to | Description |
 | --------------------------------------------------------------------------- | ---------- | ----------- |
-| [accept](https://www.w3schools.com/tags/att_accept.asp)                     |            |             |
+| [accept](https://www.w3schools.com/tags/att_accept.asp)                     | \<input\>  |             |
 | [accept-charset](https://www.w3schools.com/tags/att_accept-charset.asp)     |            |             |
 | [accesskey](https://www.w3schools.com/tags/att_accesskey.asp)               |            |             |
 | [action](https://www.w3schools.com/tags/att_action.asp)                     |            |             |
@@ -27,12 +27,10 @@
 | [default](https://www.w3schools.com/tags/att_default.asp)                   |            |             |
 | [defer](https://www.w3schools.com/tags/att_defer.asp)                       |            |             |
 | [dir](https://www.w3schools.com/tags/att_dir.asp)                           |            |             |
-| [dirname](https://www.w3schools.com/tags/att_dirname.asp)                   |            |             |
 | [disbaled](https://www.w3schools.com/tags/att_disabled.asp)                 |            |             |
-| [download](https://www.w3schools.com/tags/att_download.asp)                 |            |             |
 | [draggable](https://www.w3schools.com/tags/att_draggable.asp)               |            |             |
 | [enctype](https://www.w3schools.com/tags/att_enctype.asp)                   |            |             |
-| [for](https://www.w3schools.com/tags/att_for.asp)                           |            |             |
+| [for](https://www.w3schools.com/tags/att_for.asp)                           | lưu ý      |             |
 | [form](https://www.w3schools.com/tags/att_form.asp)                         |            |             |
 | [formaction](https://www.w3schools.com/tags/att_formaction.asp)             |            |             |
 | [headers](https://www.w3schools.com/tags/att_headers.asp)                   |            |             |
@@ -47,30 +45,25 @@
 | [kind](https://www.w3schools.com/tags/att_kind.asp)                         |            |             |
 | [label](https://www.w3schools.com/tags/att_label.asp)                       |            |             |
 | [lang](https://www.w3schools.com/tags/att_lang.asp)                         |            |             |
-| [list](https://www.w3schools.com/tags/att_list.asp)                         |            |             |
 | [loop](https://www.w3schools.com/tags/att_loop.asp)                         |            |             |
 | [low](https://www.w3schools.com/tags/att_low.asp)                           |            |             |
 | [max](https://www.w3schools.com/tags/att_max.asp)                           |            |             |
 | [maxlength](https://www.w3schools.com/tags/att_maxlength.asp)               |            |             |
-| [media](https://www.w3schools.com/tags/att_media.asp)                       |            |             |
+| [media](https://www.w3schools.com/tags/att_media.asp)                       | lưu ý      |             |
 | [method](https://www.w3schools.com/tags/att_method.asp)                     |            |             |
 | [min](https://www.w3schools.com/tags/att_min.asp)                           |            |             |
 | [multiple](https://www.w3schools.com/tags/att_multiple.asp)                 |            |             |
 | [muted](https://www.w3schools.com/tags/att_muted.asp)                       |            |             |
 | [name](https://www.w3schools.com/tags/att_name.asp)                         |            |             |
-| [novalidate](https://www.w3schools.com/tags/att_novalidate.asp)             |            |             |
 | [onabort](https://www.w3schools.com/tags/att_onabort.asp)                   |            |             |
-| [onafterprint](https://www.w3schools.com/tags/att_onafterprint.asp)         |            |             |
-| [onbeforeprint](https://www.w3schools.com/tags/att_onbeforeprint.asp)       |            |             |
 | [onbeforeunload](https://www.w3schools.com/tags/att_onbeforeunload.asp)     |            |             |
 | [onblur](https://www.w3schools.com/tags/att_onblur.asp)                     |            |             |
-| [oncanplay](https://www.w3schools.com/tags/att_oncanplay.asp)               |            |             |
+| [oncanplay](https://www.w3schools.com/tags/att_oncanplay.asp)               | lưu ý      |             |
 | [oncanplaythrough](https://www.w3schools.com/tags/att_oncanplaythrough.asp) |            |             |
 | [onchange](https://www.w3schools.com/tags/att_onchange.asp)                 |            |             |
 | [onclick](https://www.w3schools.com/tags/att_onclick.asp)                   |            |             |
 | [oncontextmenu](https://www.w3schools.com/tags/att_oncontextmenu.asp)       |            |             |
 | [oncopy](https://www.w3schools.com/tags/att_oncopy.asp)                     |            |             |
-| [oncuechange](https://www.w3schools.com/tags/att_oncuechange.asp)           |            |             |
 | [oncut](https://www.w3schools.com/tags/att_oncut.asp)                       |            |             |
 | [ondblclick](https://www.w3schools.com/tags/att_ondblclick.asp)             |            |             |
 | [ondrag](https://www.w3schools.com/tags/att_ondrag.asp)                     |            |             |
@@ -87,7 +80,6 @@
 | [onfocus](https://www.w3schools.com/tags/att_onfocus.asp)                   |            |             |
 | [onhashchange](https://www.w3schools.com/tags/att_onhashchange.asp)         |            |             |
 | [oninput](https://www.w3schools.com/tags/att_oninput.asp)                   |            |             |
-| [oninvalid](https://www.w3schools.com/tags/att_oninvalid.asp)               |            |             |
 | [onkeydown](https://www.w3schools.com/tags/att_onkeydown.asp)               |            |             |
 | [onkeypress](https://www.w3schools.com/tags/att_onkeypress.asp)             |            |             |
 | [onkeyup](https://www.w3schools.com/tags/att_onkeyup.asp)                   |            |             |
@@ -100,9 +92,6 @@
 | [onmouseout](https://www.w3schools.com/tags/att_onmouseout.asp)             |            |             |
 | [onmouseover](https://www.w3schools.com/tags/att_onmouseover.asp)           |            |             |
 | [onmouseup](https://www.w3schools.com/tags/att_onmouseup.asp)               |            |             |
-| [onmousewheel](https://www.w3schools.com/tags/att_onmousewheel.asp)         |            |             |
-| [onoffline](https://www.w3schools.com/tags/att_onoffline.asp)               |            |             |
-| [ononline](https://www.w3schools.com/tags/att_ononline.asp)                 |            |             |
 | onpagehide                                                                  |            |             |
 | [onpageshow](https://www.w3schools.com/tags/att_onpageshow.asp)             |            |             |
 | [onpaste](https://www.w3schools.com/tags/att_onpaste.asp)                   |            |             |
@@ -115,7 +104,6 @@
 | [onreset](https://www.w3schools.com/tags/att_onreset.asp)                   |            |             |
 | [onresize](https://www.w3schools.com/tags/att_onresize.asp)                 |            |             |
 | [onscroll](https://www.w3schools.com/tags/att_onscroll.asp)                 |            |             |
-| [onsearch](https://www.w3schools.com/tags/att_onsearch.asp)                 |            |             |
 | [onseeked](https://www.w3schools.com/tags/att_onseeked.asp)                 |            |             |
 | [onseeking](https://www.w3schools.com/tags/att_onseeking.asp)               |            |             |
 | [onselect](https://www.w3schools.com/tags/att_onselect.asp)                 |            |             |
@@ -124,20 +112,16 @@
 | [onsubmit](https://www.w3schools.com/tags/att_onsubmit.asp)                 |            |             |
 | [onsuspend](https://www.w3schools.com/tags/att_onsuspend.asp)               |            |             |
 | [ontimeupdate](https://www.w3schools.com/tags/att_ontimeupdate.asp)         |            |             |
-| [ontoggle](https://www.w3schools.com/tags/att_ontoggle.asp)                 |            |             |
 | [onunload](https://www.w3schools.com/tags/att_onunload.asp)                 |            |             |
 | [onvolumechange](https://www.w3schools.com/tags/att_onvolumechange.asp)     |            |             |
 | [onwaiting](https://www.w3schools.com/tags/att_onwaiting.asp)               |            |             |
-| [onwheel](https://www.w3schools.com/tags/att_onwheel.asp)                   |            |             |
-| [open](https://www.w3schools.com/tags/att_open.asp)                         |            |             |
 | [optimum](https://www.w3schools.com/tags/att_optimum.asp)                   |            |             |
-| [pattern](https://www.w3schools.com/tags/att_pattern.asp)                   |            |             |
+|                                                                             |            |             |
 | [placeholder](https://www.w3schools.com/tags/att_placeholder.asp)           |            |             |
 | [poster](https://www.w3schools.com/tags/att_poster.asp)                     |            |             |
 | [preload](https://www.w3schools.com/tags/att_preload.asp)                   |            |             |
 | [readonly](https://www.w3schools.com/tags/att_readonly.asp)                 |            |             |
 | [rel](https://www.w3schools.com/tags/att_rel.asp)                           |            |             |
-| [required](https://www.w3schools.com/tags/att_required.asp)                 |            |             |
 | [reversed](https://www.w3schools.com/tags/att_reversed.asp)                 |            |             |
 | [rows](https://www.w3schools.com/tags/att_rows.asp)                         |            |             |
 | [rowspan](https://www.w3schools.com/tags/att_rowspan.asp)                   |            |             |
@@ -159,11 +143,20 @@
 | [tabindex](https://www.w3schools.com/tags/att_tabindex.asp)                 |            |             |
 | [target](https://www.w3schools.com/tags/att_target.asp)                     |            |             |
 | [title](https://www.w3schools.com/tags/att_title.asp)                       |            |             |
-| [translate](https://www.w3schools.com/tags/att_translate.asp)               |            |             |
 | [type](https://www.w3schools.com/tags/att_type.asp)                         |            |             |
-| [usemap](https://www.w3schools.com/tags/att_usemap.asp)                     |            |             |
+| [usemap](https://www.w3schools.com/tags/att_usemap.asp)                     | lưu ý      |             |
 | [value](https://www.w3schools.com/tags/att_value.asp)                       |            |             |
 | [width](https://www.w3schools.com/tags/att_width.asp)                       |            |             |
 | [wrap](https://www.w3schools.com/tags/att_wrap.asp)                         |            |             |
 
 NotSupport HTML5 : align, bgcolor, border, color
+
+[dirname](https://www.w3schools.com/tags/att_dirname.asp) , [oncuechange](https://www.w3schools.com/tags/att_oncuechange.asp) , [onmousewheel](https://www.w3schools.com/tags/att_onmousewheel.asp) , [onsearch](https://www.w3schools.com/tags/att_onsearch.asp) , [ontoggle](https://www.w3schools.com/tags/att_ontoggle.asp), [open](https://www.w3schools.com/tags/att_open.asp): Firefox not Support
+
+[download](https://www.w3schools.com/tags/att_download.asp), [list](https://www.w3schools.com/tags/att_list.asp), [novalidate](https://www.w3schools.com/tags/att_novalidate.asp) , [oninvalid](https://www.w3schools.com/tags/att_oninvalid.asp), [pattern](https://www.w3schools.com/tags/att_pattern.asp) , [required](https://www.w3schools.com/tags/att_required.asp): Safari not Support
+
+[onafterprint](https://www.w3schools.com/tags/att_onafterprint.asp), [onbeforeprint](https://www.w3schools.com/tags/att_onbeforeprint.asp), [onwheel](https://www.w3schools.com/tags/att_onwheel.asp): Safari, Opera not Support
+
+[onoffline](https://www.w3schools.com/tags/att_onoffline.asp) , [ononline](https://www.w3schools.com/tags/att_ononline.asp): Chrome, Safari, Opera not Support
+
+[sizes](https://www.w3schools.com/tags/att_sizes.asp) , [translate](https://www.w3schools.com/tags/att_translate.asp): All Browser not support
