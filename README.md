@@ -9,9 +9,9 @@
 ### 🌀 Mình tên là Zen, đây là bộ Guide về `HTML` của mình phóng tác lại bởi `W3school`.  🌀
 
 <div>
-	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/Tag.md"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/21-17-35-13-tag.png" width="30%"></a>
-	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/GlobalAttributes.md">Global Attribute</a>
-	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/EventAttributes.md">Event Attribute</a>
+	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/Tag.md"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/21-17-35-13-tag.png" width="160px"></a>
+	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/GlobalAttributes.md"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/21-17-39-11-globalAttribute.png" width="160px"></a>
+	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/EventAttributes.md"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/21-17-41-11-eventAttribute.png" width="160px"></a>
 	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/Attribute.md">Attribute</a>
     <a href="https://github.com/Zenfection/HTML/blob/main/Reference/AudioVideo.md">Audio/Video</a>
 	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/SVG.md">SVG</a>
