@@ -1,6 +1,6 @@
 # ![icons8-event.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-20-48-49-icons8-event.png) Event Attributes <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-20-49-37-22-12-04-09-06-00-18-00-html5.gif" title="" alt="22-12-04-09-06-00-18-00-html5.gif" width="50">
 
-## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-45-18-icons8-restore_window.png" title="" alt="icons8-restore_window.png" width="50"> Window Event
+## <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-45-18-icons8-restore_window.png" alt="icons8-restore_window.png" width="40"> Window Event
 
 Các sự kiện liên quan tới cửa sổ (*áp dụng cho các thể trong `<body>`*)
 
@@ -19,7 +19,7 @@ Các sự kiện liên quan tới cửa sổ (*áp dụng cho các thể trong `
 
 ---
 
-## ![icons8-form.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-45-32-icons8-form.png) Form Events
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-45-32-icons8-form.png" title="" alt="icons8-form.png" width="40"> Form Events
 
 Các sự kiện liên quan tới hành động trong **biểu mẫu** : 
 
@@ -36,7 +36,7 @@ Các sự kiện liên quan tới hành động trong **biểu mẫu** :
 
 ---
 
-## ![icons8-keyboard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-45-49-icons8-keyboard.png) Keyboard Event
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-45-49-icons8-keyboard.png" title="" alt="icons8-keyboard.png" width="40"> Keyboard Event
 
 | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute                                                                        | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Kích hoạt khi) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@ Các sự kiện liên quan tới hành động trong **biểu mẫu** :
 
 ---
 
-## ![icons8-mouse.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-46-06-icons8-mouse.png) Mouse Event
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-46-06-icons8-mouse.png" title="" alt="icons8-mouse.png" width="40"> Mouse Event
 
 | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute                                                                                    | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Kích hoạt khi) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ Các sự kiện liên quan tới hành động trong **biểu mẫu** :
 
 ---
 
-## ![icons8-drag.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-46-19-icons8-drag.png) Drag Events
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-46-19-icons8-drag.png" title="" alt="icons8-drag.png" width="40"> Drag Events
 
 Sự kiện về khéo thả, yêu cầu bật `draggable="true"`
 
@@ -68,7 +68,7 @@ Sự kiện về khéo thả, yêu cầu bật `draggable="true"`
 
 ---
 
-## ![icons8-copy_to_clipboard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-46-43-icons8-copy_to_clipboard.png) Clipboard Event
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-46-43-icons8-copy_to_clipboard.png" title="" alt="icons8-copy_to_clipboard.png" width="40"> Clipboard Event
 
 | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute                                                        | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Kích hoạt khi) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,7 +76,7 @@ Sự kiện về khéo thả, yêu cầu bật `draggable="true"`
 
 ---
 
-## ![icons8-cinema_film_play.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-49-31-icons8-cinema_film_play.png) Media Event
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-49-31-icons8-cinema_film_play.png" title="" alt="icons8-cinema_film_play.png" width="40"> Media Event
 
 Sự kiện dành cho các `media` như : `<audio>` , `<video>`, `<embed>`, `<img>`, `object`, `video`
 
@@ -107,7 +107,7 @@ Sự kiện dành cho các `media` như : `<audio>` , `<video>`, `<embed>`, `<im
 
 ---
 
-## ![icons8-light_switch.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-50-03-icons8-light_switch.png) Mics Event
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-50-03-icons8-light_switch.png" title="" alt="icons8-light_switch.png" width="40"> Mics Event
 
 | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Kích hoạt khi) |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -115,7 +115,7 @@ Sự kiện dành cho các `media` như : `<audio>` , `<video>`, `<embed>`, `<im
 
 ---
 
-## ![12](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-13-42-40-icons8-access_denied.png) Limit
+## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-13-42-40-icons8-access_denied.png" title="" width="40"> Limit
 
 | Window Event<br>Attribute                                                                                                                  | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/20-23-11-28-icons8-why_quest.png)Reason not to use                                                                                                                                                                                                                                                                                                                                                       | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
