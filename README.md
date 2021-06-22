@@ -8,6 +8,7 @@
 
 ### 🌀 Mình tên là Zen, đây là bộ Guide về `HTML` của mình phóng tác lại bởi `W3school`.  🌀
 
+### Tất cả tài liệu bên dưới dựa trên tham chiếu bởi 4 trình duyệt sau : <a href="https://www.google.com/chrome/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-16-17-50-icons8-chrome.png" width="40px"></a>  <a href="https://support.apple.com/downloads/safari"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/05-23-40-47-iOS-7-Safari-app-icon-large-e1442348114864.png" width="35px"><a/>  <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-16-19-27-Firefox_logo%2C_2019.svg.png" width="35px"></a>  <a href="https://opera.com"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-16-18-02-icons8-opera.png" width="40px"></a>
 <div>
 	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/Tag.md"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/21-17-35-13-tag.png" width="160px"></a>
 	<a href="https://github.com/Zenfection/HTML/blob/main/Reference/GlobalAttributes.md"><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/21-17-39-11-globalAttribute.png" width="160px"></a>
