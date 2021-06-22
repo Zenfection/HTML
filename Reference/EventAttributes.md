@@ -1,4 +1,4 @@
-# Event Attributes
+# ![icons8-event.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-20-48-49-icons8-event.png) Event Attributes <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-20-49-37-22-12-04-09-06-00-18-00-html5.gif" title="" alt="22-12-04-09-06-00-18-00-html5.gif" width="50">
 
 ## ![icons8-restore_window.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-45-18-icons8-restore_window.png) Window Event
 
@@ -57,26 +57,22 @@ Các sự kiện liên quan tới hành động trong **biểu mẫu** :
 
 ## ![icons8-drag.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-46-19-icons8-drag.png) Drag Events
 
-| ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description |
-| ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [ondrag](https://www.w3schools.com/tags/ev_ondrag.asp)                                                              |                                                                                                                             |
-| [ondragend](https://www.w3schools.com/tags/ev_ondragend.asp)                                                        |                                                                                                                             |
-| [ondragenter](https://www.w3schools.com/tags/ev_ondragenter.asp)                                                    |                                                                                                                             |
-| [ondragleave](https://www.w3schools.com/tags/ev_ondragleave.asp)                                                    |                                                                                                                             |
-| [ondragover](https://www.w3schools.com/tags/ev_ondragover.asp)                                                      |                                                                                                                             |
-| [ondragstart](https://www.w3schools.com/tags/ev_ondragstart.asp)                                                    |                                                                                                                             |
-| [ondrop](https://www.w3schools.com/tags/ev_ondrop.asp)                                                              |                                                                                                                             |
-| [onscroll](https://www.w3schools.com/tags/ev_onscroll.asp)                                                          |                                                                                                                             |
+Sự kiện về khéo thả, yêu cầu bật `draggable="true"`
+
+| ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute                                                                                    | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Chạy khi) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| [ondrag](https://www.w3schools.com/tags/ev_ondrag.asp)<br>[ondrop](https://www.w3schools.com/tags/ev_ondrop.asp)                                                                                       | Phần tử được `kéo ra`<br>Phần tử được `thả ra`                                                                                         |
+| [ondragstart](https://www.w3schools.com/tags/ev_ondragstart.asp)<br>[ondragend](https://www.w3schools.com/tags/ev_ondragend.asp)                                                                       | `Bắt đầu` thao tác kéo thả<br>`Kết thúc` thao tác kéo thả                                                                              |
+| [ondragenter](https://www.w3schools.com/tags/ev_ondragenter.asp)<br>[ondragleave](https://www.w3schools.com/tags/ev_ondragleave.asp)<br>[ondragover](https://www.w3schools.com/tags/ev_ondragover.asp) | Phần tử được `kéo tới` nơi thả hợp lệ<br>Phần tử được `rời khỏi` nơi thả hợp lệ<br>Phần tử được kéo `ngang qua` nơi thả hợp lệ         |
+| [onscroll](https://www.w3schools.com/tags/ev_onscroll.asp)                                                                                                                                             | Cuộn phần tử trên thanh cuộn                                                                                                           |
 
 ---
 
 ## ![icons8-copy_to_clipboard.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-46-43-icons8-copy_to_clipboard.png) Clipboard Event
 
-| ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute | Value | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description |
-| ------------------------------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| [oncopy](https://www.w3schools.com/tags/ev_oncopy.asp)                                                              |       |                                                                                                                             |
-| [oncut](https://www.w3schools.com/tags/ev_oncut.asp)                                                                |       |                                                                                                                             |
-| [onpaste](https://www.w3schools.com/tags/ev_onpaste.asp)                                                            |       |                                                                                                                             |
+| ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute                                                        | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Kích hoạt khi) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [oncopy](https://www.w3schools.com/tags/ev_oncopy.asp)<br>[oncut](https://www.w3schools.com/tags/ev_oncut.asp)<br>[onpaste](https://www.w3schools.com/tags/ev_onpaste.asp) | Người dùng `copy` phần tử<br>Người dùng `cut` phần tử<br>Người dùng `paste` phần tử                                                         |
 
 ---
 
@@ -112,9 +108,9 @@ Các sự kiện liên quan tới hành động trong **biểu mẫu** :
 
 ## ![icons8-light_switch.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-50-03-icons8-light_switch.png) Mics Event
 
-| ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute | Event | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description |
-| ------------------------------------------------------------------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| [ontoggle]()                                                                                                        |       |                                                                                                                             |
+| ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Kích hoạt khi) |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ontoggle](https://www.w3schools.com/tags/ev_ontoggle.asp)                                                          | Người dùng `bật` / `tắt` thẻ `<details>`                                                                                                    |
 
 ---
 
