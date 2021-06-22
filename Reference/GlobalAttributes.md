@@ -1,18 +1,19 @@
-# Global Attributes
+# <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-12-10-10-icons8-earth_care.png" title="" alt="icons8-earth_care.png" width="50"> Global Attributes <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-12-04-09-06-00-18-00-html5.gif" title="" alt="06-00-18-00-html5.gif" width="50">
 
-| Attribute                                                                        |     |
-| -------------------------------------------------------------------------------- | --- |
-| [accesskey](https://www.w3schools.com/tags/att_global_accesskey.asp)             |     |
-| [class](https://www.w3schools.com/tags/att_global_class.asp)                     |     |
-| [contenteditable](https://www.w3schools.com/tags/att_global_contenteditable.asp) |     |
-| [data-*](https://www.w3schools.com/tags/att_global_data.asp)                     |     |
-| [dir](https://www.w3schools.com/tags/att_global_dir.asp)                         |     |
-| [draggable](https://www.w3schools.com/tags/att_global_draggable.asp)             |     |
-| [hidden](https://www.w3schools.com/tags/att_global_hidden.asp)                   |     |
-| [id](https://www.w3schools.com/tags/att_global_id.asp)                           |     |
-| [lang](https://www.w3schools.com/tags/att_global_lang.asp)                       |     |
-| [spellcheck](https://www.w3schools.com/tags/att_global_spellcheck.asp)           |     |
-| [style](https://www.w3schools.com/tags/att_global_style.asp)                     |     |
-| [tabindex](https://www.w3schools.com/tags/att_global_tabindex.asp)               |     |
-| [title](https://www.w3schools.com/tags/att_global_title.asp)                     |     |
-| [translate](https://www.w3schools.com/tags/att_global_translate.asp)             |     |
+Là thuộc tính có thể sử dụng với tất cả thẻ `HTML`, bao gồm : 
+
+| Attribute                                                                                                                                                  | Desciption                                               | Value                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------- |
+| [accesskey](https://www.w3schools.com/tags/att_global_accesskey.asp)                                                                                       | Đặt phím tắt tập trung vào phần tử                       | *char*                    |
+| [class](https://www.w3schools.com/tags/att_global_class.asp)<br>[id](https://www.w3schools.com/tags/att_global_id.asp)                                     | Đặt tên `class` cho phần tử<br>Đặt tên `id` cho phần tử  | *string*                  |
+| [contenteditable](https://www.w3schools.com/tags/att_global_contenteditable.asp)<br>[spellcheck](https://www.w3schools.com/tags/att_global_spellcheck.asp) | Cho phép chỉnh sửa phần tử<br>Cho phép kiểm tra ngữ pháp | `true` / `false`          |
+| [draggable](https://www.w3schools.com/tags/att_global_draggable.asp)                                                                                       | Cho phép kéo thả phần tử                                 | `true` / `false` / `auto` |
+| [data-*](https://www.w3schools.com/tags/att_global_data.asp)                                                                                               | Lưu trữ `custom data` trên phần tử                       | *string*                  |
+| [dir](https://www.w3schools.com/tags/att_global_dir.asp)                                                                                                   | Chỉ định hướng văn bản                                   | `ltr` / `rtl` / `auto`    |
+| [hidden](https://www.w3schools.com/tags/att_global_hidden.asp)                                                                                             | Ẩn phần tử                                               |                           |
+| [lang](https://www.w3schools.com/tags/att_global_lang.asp)                                                                                                 | Xác định ngôn ngữ của nội dung                           | *language_code*           |
+| [style](https://www.w3schools.com/tags/att_global_style.asp)                                                                                               | Định dạng `CSS` cho phần tử                              | *css_code*                |
+| [tabindex](https://www.w3schools.com/tags/att_global_tabindex.asp)                                                                                         | Chỉ định thứ tự `tab`                                    | *number*                  |
+| [title](https://www.w3schools.com/tags/att_global_title.asp)                                                                                               | Đặt tiêu đề cho phần tử                                  | *string*                  |
+
+[translate](https://www.w3schools.com/tags/att_global_translate.asp) not support 
