@@ -36,15 +36,17 @@ Các sự kiện liên quan tới hành động trong **biểu mẫu** :
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-45-49-icons8-keyboard.png" title="" alt="icons8-keyboard.png" width="40"> Keyboard Event
 
-| ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute                                                                        | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Kích hoạt khi) | ![icons8recyclingpng](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/23-19-31-16-icons8-recycling.png) Use for |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| [onkeydown](https://www.w3schools.com/tags/ev_onkeydown.asp)<br>[onkeyup](https://www.w3schools.com/tags/ev_onkeyup.asp)<br>[onkeypress](https://www.w3schools.com/tags/ev_onkeypress.asp) | Người dùng **`đè`** phím<br>Người dùng **`nhả`** phím<br>Người dùng **`nhấn`** phím                                                         | Tất cả các thẻ hiển thị                                                                                                           |
+![icons8recyclingpng](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/23-19-31-16-icons8-recycling.png) Các sự kiện liên quan tới nhấn phím dùng cho : **Tất cả các thẻ** `hiển thị`
+
+| ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute                                                                        | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Kích hoạt khi) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [onkeydown](https://www.w3schools.com/tags/ev_onkeydown.asp)<br>[onkeyup](https://www.w3schools.com/tags/ev_onkeyup.asp)<br>[onkeypress](https://www.w3schools.com/tags/ev_onkeypress.asp) | Người dùng **`đè`** phím<br>Người dùng **`nhả`** phím<br>Người dùng **`nhấn`** phím                                                         |
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-46-06-icons8-mouse.png" title="" alt="icons8-mouse.png" width="40"> Mouse Event
 
-Phụ thuộc vào tất cả các thẻ hiển thị
+![icons8recyclingpng](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/23-19-31-16-icons8-recycling.png) Các sự kiện liên quan tới click chuột dùng cho : **Tất cả các thẻ** `hiển thị`
 
 | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute                                                                                    | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Kích hoạt khi) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,7 +61,7 @@ Phụ thuộc vào tất cả các thẻ hiển thị
 
 Sự kiện về khéo thả, yêu cầu bật `draggable="true"`
 
-Phụ thuộc vào tất cả các thẻ hiển thị
+![icons8recyclingpng](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/23-19-31-16-icons8-recycling.png) Các sự kiện liên quan tới nhấn phím dùng cho : **Tất cả các thẻ** `hiển thị`
 
 | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute                                                                                    | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Chạy khi) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -71,6 +73,8 @@ Phụ thuộc vào tất cả các thẻ hiển thị
 ---
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-46-43-icons8-copy_to_clipboard.png" title="" alt="icons8-copy_to_clipboard.png" width="40"> Clipboard Event
+
+![icons8recyclingpng](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/23-19-31-16-icons8-recycling.png) Các sự kiện liên quan tới `copy & paste` dùng cho : **Tất cả các thẻ** `hiển thị`
 
 | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-10-39-icons8-electrical.png) Attribute                                                        | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description (Kích hoạt khi) | ![icons8recyclingpng](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/23-19-31-16-icons8-recycling.png) Use for |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
