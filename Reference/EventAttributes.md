@@ -1,5 +1,7 @@
 # ![icons8-event.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-20-48-49-icons8-event.png) Event Attributes <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-20-49-37-22-12-04-09-06-00-18-00-html5.gif" title="" alt="22-12-04-09-06-00-18-00-html5.gif" width="50">
 
+Cho phép các sự kiện kích hoạt các hành động trong trình duyệt, như khởi động `JavaScript` khi người dùng nhấp vào một phần tử.
+
 ## <img title="" src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-19-45-18-icons8-restore_window.png" alt="icons8-restore_window.png" width="40"> Window Event
 
 Các sự kiện liên quan tới cửa sổ (*áp dụng cho các thẻ trong `<body>`*)
