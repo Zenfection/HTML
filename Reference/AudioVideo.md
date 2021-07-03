@@ -14,10 +14,10 @@
 
 | Property                                                                              | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description |
 | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| [audioTracks](https://www.w3schools.com/tags/av_prop_audiotracks.asp)                 |                                                                                                                             |
+| [audioTracks](https://www.w3schools.com/tags/av_prop_audiotracks.asp)                 | !                                                                                                                           |
 | [autoplay](https://www.w3schools.com/tags/av_prop_autoplay.asp)                       |                                                                                                                             |
 | [buffered](https://www.w3schools.com/tags/av_prop_buffered.asp)                       |                                                                                                                             |
-| [controller](https://www.w3schools.com/tags/av_prop_controller.asp)                   |                                                                                                                             |
+| [controller](https://www.w3schools.com/tags/av_prop_controller.asp)                   | !                                                                                                                           |
 | [controls](https://www.w3schools.com/tags/av_prop_controls.asp)                       |                                                                                                                             |
 | crossOrigin                                                                           |                                                                                                                             |
 | [currentSrc](https://www.w3schools.com/tags/av_prop_currentsrc.asp)                   |                                                                                                                             |
