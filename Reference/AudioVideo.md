@@ -1,14 +1,12 @@
-# Audio/Video DOM
+# Audio/Video DOM <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/22-20-49-37-22-12-04-09-06-00-18-00-html5.gif" title="" alt="html5" width="50">
 
 ## Methods
 
-| Method                                                                   | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description |
-| ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| [addTextTrack()](https://www.w3schools.com/tags/av_met_addtexttrack.asp) |                                                                                                                             |
-| [canPlayType()](https://www.w3schools.com/tags/av_met_canplaytype.asp)   |                                                                                                                             |
-| [load()](https://www.w3schools.com/tags/av_met_load.asp)                 |                                                                                                                             |
-| [play()](https://www.w3schools.com/tags/av_met_play.asp)                 |                                                                                                                             |
-| [pause()](https://www.w3schools.com/tags/av_met_pause.asp)               |                                                                                                                             |
+| Method                                                                                                                                                                             | ![1](https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/13-10-06-26-icons8-handle_with_care.png) Description | Value  | Return Value                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------------------- |
+| [addTextTrack()](https://www.w3schools.com/tags/av_met_addtexttrack.asp)                                                                                                           |                                                                                                                             |        |                               |
+| [canPlayType()](https://www.w3schools.com/tags/av_met_canplaytype.asp)                                                                                                             | Kiểm tra nếu trình duyệt có thể chạy `audio/video` chỉ định hay không                                                       | *type* | `probably`<br>`maybe`<br>`""` |
+| [load()](https://www.w3schools.com/tags/av_met_load.asp)<br>[play()](https://www.w3schools.com/tags/av_met_play.asp)<br>[pause()](https://www.w3schools.com/tags/av_met_pause.asp) | Tải lại thẻ `audio/video`<br>Bắt đầu phát `audio/video`<br>Dừng phát `audio/video`                                          | None.  | No.                           |
 
 ---
 
@@ -49,3 +47,7 @@
 ---
 
 ## Events
+
+---
+
+## Limited

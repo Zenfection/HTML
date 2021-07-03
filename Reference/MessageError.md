@@ -4,7 +4,7 @@ Khi trình duyệt gửi tín hiệu về `Web server`, đôi khi sẽ xuất hi
 
 Và rất nhiều lỗi mà `HTML` báo về, dưới đây là tổng hợp các lỗi mà bạn có thể tham khảo : 
 
-![icons8-messaging.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/07/01-21-00-10-icons8-messaging.png)
+
 
 ## <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/27-22-18-28-icons8-information.png" title="" alt="icons8-information.png" width="40"> 1xx: Information
 
